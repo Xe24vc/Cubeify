@@ -5,6 +5,8 @@ I'm not responsible for any lost data or hardware damage that may result.
 A Linux environment tailored to running Dolphin-Emu as a front end using the GC Bios (Must be legally accquired).
 Specifically designed for use on a DeskMini A300/X300 with a Ryzen5 3400g.
 
+![alt text](https://github.com/Xe24vc/Cubeify/blob/master/Examples/Bios.png)
+
 Notice:
 There is no copyrighted content included in this repo or any of the associated repos.
 The bios file (IPL.bin) which is required to use Cubeify and any roms must be dumped yourself legally.
@@ -12,7 +14,7 @@ Do not ask for any copyrighted material.
 
 Cubeify can be built on Ubuntu 20.04 LTS Focal Fossa using the provided scripts and following the directions below.
 
-1) Clone or download this repo and copy the "Cubeify" folder to /home/<Your Username>/Documents.
+1) Clone or download this repo and copy the "Cubeify" folder to /home/"Your Username"/Documents.
 
 2) Open a terminal and navigate to Cubeify, then make the first script executable ("chmod a+x ./00_Setup_Pt1.sh").
 
