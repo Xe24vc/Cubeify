@@ -1,5 +1,5 @@
-# This is still an early work in progress so expect bugs. Please only use this on a clean Ubuntu 20.04 Focal Fossa install.
-# I'm not responsible for any lost data or hardware damage that may result.
+This is still an early work in progress so expect bugs. Please only use this on a clean Ubuntu 20.04 Focal Fossa install.
+I'm not responsible for any lost data or hardware damage that may result.
 
 # Cubeify
 A Linux environment tailored to running Dolphin-Emu as a front end using the GC Bios (Must be legally accquired).
